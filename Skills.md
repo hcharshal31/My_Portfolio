@@ -1,0 +1,9 @@
+## Skills
+- HTML
+- CSS
+- JavaScript
+- ReactJs
+- Java
+- SQL
+- Python
+- git
