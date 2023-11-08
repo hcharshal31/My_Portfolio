@@ -1,2 +1,2 @@
-# My_Portfolio
-This repository contains my educational, technical knowledge and skills, projects and social links, etc. kind of information.
+#My_Portfolio
+This portfolio contains my eduacational information, technical knowledge, skills and certifications, my social account links etc.
